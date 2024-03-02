@@ -10,14 +10,6 @@ import json
 """ Extracting data from web to FTP
  by yourstrulyhb 
 
-Tasks done:
-   [x] Set up FTP server.
-   [x] Create git repo.
-   [x] Set up a Python virtual environment.
-   [x] Connect to FTP server.
-   [x] Download OFAC_CONS CSV files.
-   [x] Upload OFAC CSV files to FTP server.
-
 Reference:
 - https://docs.python.org/3/library/ftplib.html
 - https://pandas.pydata.org/docs/dev/reference/api/pandas.read_csv.html
