@@ -11,8 +11,11 @@ import json
  by yourstrulyhb 
 
 Tasks done:
-   [x] Download OFAC CSV files.
-   [x] Connect to an FTP server.
+   [x] Set up FTP server.
+   [x] Create git repo.
+   [x] Set up a Python virtual environment.
+   [x] Connect to FTP server.
+   [x] Download OFAC_CONS CSV files.
    [x] Upload OFAC CSV files to FTP server.
 
 Reference:
